@@ -1,0 +1,20 @@
+{
+  "name": "Iron GYM",
+  "short_name": "Iron GYM",
+  "description": "Iron GYM: fuerza, físico y disciplina.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "Imagenes/Logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
